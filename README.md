@@ -1,3 +1,5 @@
+# Optimization of a Pendulum Tuned Mass Damper
+
 ### Model Diagram
 <img src="https://github.com/zhihanyang2022/pendulum-tuned-mass-damper/blob/master/readme_pngs/model.png" alt="drawing" width="400"/>
 
